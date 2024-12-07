@@ -1,0 +1,8 @@
+.pagecontact {
+    background-image: url(/public/images/imgcontact.jpg);
+    background-color: rgba (0, 105, 255, 0.5);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
